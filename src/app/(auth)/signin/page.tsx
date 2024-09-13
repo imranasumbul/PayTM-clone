@@ -1,8 +1,4 @@
-
-
 import SigninComponent from "@/components/auth/SigninComponent";
-
-
 
 export default function Signup(){
     
@@ -10,6 +6,7 @@ export default function Signup(){
         <>
         
         <SigninComponent />
+        
         </>
     )
 }
